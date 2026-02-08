@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "大河よ共に泣いてくれ(TV size)",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-02-08T13:14:54.753376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ(TV size)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/01_大河よ共に泣いてくれ(TV_size)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ (TV size)",
+      "artist": "Franchouchou",
+      "has_synced": true,
+      "path": "select/02_大河よ共に泣いてくれ_(TV_size)_Franchouchou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大河よ共に泣いてくれ(TV size)",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/03_大河よ共に泣いてくれ(TV_size)_FranChouChou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大河よ共に泣いてくれ - (TV size)",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_大河よ共に泣いてくれ_-_(TV_size)_フランシュシュ.txt"
+    }
+  ]
+}
